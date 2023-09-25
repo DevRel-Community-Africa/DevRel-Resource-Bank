@@ -2,7 +2,7 @@
 Welcome to the DevRel Resource Bank! This is a collection of helpful resources for individuals interested in building and fostering developer communities. This repository acts as a guide to different topics and materials related to developer relations. Curated by the [DevRel Community Africa team](https://twitter.com/devrelcomafrica).
 
 # Table of Content
-***
+
 - [Getting Started with Developer Relations]()
     - [Developer Advocacy]()
     - [Developer Marketing]()
@@ -27,7 +27,7 @@ Welcome to the DevRel Resource Bank! This is a collection of helpful resources f
 - [Newsletters](#newsletters)
 
 
-***
+
 
 ## Getting Started with Developer Relations
 
@@ -37,7 +37,7 @@ DevRel is an umbrella term that covers diffrenet roles and activities aimed at b
 The goal of DevRel is to support and empower developers while also aligning their needs with the company's goals.
 
 
-***
+
 
 ## Books
 
@@ -56,7 +56,7 @@ The goal of DevRel is to support and empower developers while also aligning thei
 
 - [DevRel Puzzle: The hidden details](https://www.amazon.com/dp/B0CHL9MZQS)
 
-***
+
 
 ## Blogs and Articles 
 
@@ -82,7 +82,7 @@ Building and maintaining strong relationships with developers is essential for t
 - [What is Developer Relations (DevRel)? A Complete Guide.](https://www.jonobacon.com/2023/04/02/what-is-developer-relations-devrel-a-complete-guide/) - Jono Bacon
   
   
-***
+
 ## DevRel Communities
 
 Developer communities play a crucial role in DevRel by creating a hub for collaborative learning and support, making it essential for individuals to engage in these communities to access a wealth of knowledge, insights, and networking opportunities that can propel their success in the technology field.
@@ -99,11 +99,11 @@ Developer communities play a crucial role in DevRel by creating a hub for collab
   
 - [CMX HUB](https://www.cmxhub.com/community) - CMX Hub is a community that helps professional community builders thrive.
 
-*** 
+ 
 ## DevRel Professionals to follow
 
 
-*** 
+ 
 
 ## Developer Relations Job Boards
 
@@ -120,7 +120,7 @@ You can find different devrel job opportunites accross these job boards.
 - [Community Club](https://www.community.club/jobs)
 
 
-***
+
 ## Call For Papers
 
 A CFP or Call for Paper is a public invitation for people to submit proposals for presentations, workshops, or other events at a conference or other event.
@@ -154,7 +154,7 @@ A CFP or Call for Paper is a public invitation for people to submit proposals fo
   
 - [Confs.tech](https://confs.tech/)
 
-***
+
 
 ## Newsletters
 
