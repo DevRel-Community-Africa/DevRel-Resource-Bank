@@ -64,7 +64,7 @@ Building and maintaining strong relationships with developers is essential for t
 
 ### Blogs
 
-- [DevRelCom Africa](https://devrelcomafrica.hashnode.dev/)
+- [DevRelCom Africa Blog](https://devrelcomafrica.hashnode.dev/)
   
 - [Mary Thengvall Blog](https://www.marythengvall.com/blog/category/DevRel)
   
@@ -102,7 +102,11 @@ Developer communities play a crucial role in DevRel by creating a hub for collab
  
 ## DevRel Professionals to follow
 
-
+- [Shedrack Akintayo](https://twitter.com/coder_blvck) - Founder, DevRel Community Africa
+- [Angie Jones](https://twitter.com/techgirl1908) - Global Vice President of Developer Relations for TBD
+- [Mary Thengvall](https://twitter.com/mary_grace) - Director of DevRel, Camunda
+- [Dillion Megida](https://twitter.com/iamdillion)  - Developer Advocate, Adyen
+- [Edidiong Asikpo](https://twitter.com/Didicodes) - Senior Developer Advocate, Ambassadorlabs
  
 
 ## Developer Relations Job Boards
@@ -168,4 +172,4 @@ Stay updated with the latest DevRel insights, trends and news through the follow
 
 - [DevRelX Digest](https://www.devrelx.com/) - A bi-weekly newsltter of developer trends around the world. 
   
-- [Developerrellations.com Newsletter](https://developerrelations.com/newsletter) - DeveloperRelations.com newsletter covers the latest news, articles, and analysis on developer relations, marketing, community, and experience.
+- [Developerrelations.com Newsletter](https://developerrelations.com/newsletter) - DeveloperRelations.com newsletter covers the latest news, articles, and analysis on developer relations, marketing, community, and experience.
