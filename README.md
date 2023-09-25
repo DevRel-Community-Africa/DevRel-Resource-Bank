@@ -11,8 +11,8 @@ Welcome to the DevRel Resource Bank! This is a collection of helpful resources f
 
 - [Books](#books)
 
-
 - [Blogs and Articles](#articles)
+- [Devrel Strategies and Content Plan]()
   
 - [DevRel Communites to join](#devrel-communities)
   
@@ -73,6 +73,8 @@ Building and maintaining strong relationships with developers is essential for t
 ### Articles
 - [What is DevRel](https://adityaoberai.medium.com/what-is-devrel-a09dc6545370) - Aditya Oberai
 
+- [The Subtle Art of Being A Developer Advocate](https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg) - Wassim Chegham
+
 - [7 Tips for Breaking Into DevRel](https://dev.to/dabit3/7-tips-for-breaking-into-devrel-7jk) - Nader Dabit 
   
 - [What is DevRel and how can you start doing it today?](https://dev.to/jacobandrewsky/what-is-devrel-and-how-can-you-start-doing-it-today-lpc) - Jakub Andrzejewski
@@ -81,7 +83,17 @@ Building and maintaining strong relationships with developers is essential for t
   
 - [What is Developer Relations (DevRel)? A Complete Guide.](https://www.jonobacon.com/2023/04/02/what-is-developer-relations-devrel-a-complete-guide/) - Jono Bacon
   
+## DevRel Strategies and Content Plan
+
+A DevRel strategy and content plan are essential for building and maintaining a successful developer community. As the first DevRel hire or lead, you may be tasked with creating a DevRel strategy for your company. Here are some samples to help you get started.
+
+- [Content Plan Template](https://github.com/hacktivist123/content-plan-example) - Shedrack Akintayo
   
+- [DevRel Campaign Strategy Template](https://www.commonroom.io/resources/devrel-campaign-strategy-template) - Commonroom
+  
+- [DevRel Strategy Breakdown](https://www.tessakriesel.com/devrel-strategy-breakdown/) - Tessa Kriesel
+  
+- [Content Strategy](https://handbook.sourcegraph.com/departments/cto/community/content-strategy/#content-strategy) - Sourcegraph
 
 ## DevRel Communities
 
