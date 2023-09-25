@@ -12,7 +12,8 @@ Welcome to the DevRel Resource Bank! This is a collection of helpful resources f
 - [Books](#books)
 
 - [Blogs and Articles](#articles)
-- [Devrel Strategies and Content Plan]()
+  
+- [Devrel Strategies and Content Plan](#devrel-strategies-and-content-plan)
   
 - [DevRel Communites to join](#devrel-communities)
   
