@@ -4,10 +4,8 @@ Welcome to the DevRel Resource Bank! This is a collection of helpful resources f
 # Table of Content
 
 - [Getting Started with Developer Relations]()
-    - [Developer Advocacy]()
-    - [Developer Marketing]()
-    - [Developer Educators]()
-    - [(Developer) Community Manager]()
+  
+    - [Roles In Developer Relation](#roles-in-developer-relations)
 
 - [Books](#books)
 
@@ -26,6 +24,8 @@ Welcome to the DevRel Resource Bank! This is a collection of helpful resources f
      - [Sites to find CFPs](#sites-to-find-cfps)
 
 - [Newsletters](#newsletters)
+  
+- [Tools](#tools)
 
 
 
@@ -37,7 +37,21 @@ DevRel is an umbrella term that covers diffrenet roles and activities aimed at b
 
 The goal of DevRel is to support and empower developers while also aligning their needs with the company's goals.
 
+### Roles in Developer Relations
 
+DevRel encompasses a variety of roles, some of which have overlapping responsibilities and are used interchangeably. However, the following are some common DevRel roles that you'll hear often:
+
+- **Developer Advocate**: Developer Advocates bridge the gap between developers and the company, providing technical expertise, support, and feedback to improve the developer experience.
+
+- **Technical Writer**: Technical Writers create clear and comprehensive documentation, tutorials, and guides to help developers understand and use a company's products or services.
+
+- **Community Manager**: Community Managers foster and nurture developer communities, facilitating engagement, organizing events, and ensuring a positive and inclusive environment.
+
+- **Developer Evangelist**: Developer Evangelists promote a company's technologies or products through public speaking, writing, and engaging with the broader developer community to build awareness and excitement.
+
+- **Developer Experience (DX) Engineer**: DX Engineers focus on enhancing the developer experience by creating tools, SDKs, and resources that streamline the development process and improve usability.
+
+- **Open Source Maintainer**: Open Source Maintainers oversee and contribute to open-source projects, often created by the company, to encourage collaboration and adoption among developers.
 
 
 ## Books
@@ -186,3 +200,27 @@ Stay updated with the latest DevRel insights, trends and news through the follow
 - [DevRelX Digest](https://www.devrelx.com/) - A bi-weekly newsltter of developer trends around the world. 
   
 - [Developerrelations.com Newsletter](https://developerrelations.com/newsletter) - DeveloperRelations.com newsletter covers the latest news, articles, and analysis on developer relations, marketing, community, and experience.
+
+
+## Tools
+
+### Communication Tools
+
+- [Slack](https://slack.com/)
+- [Discord](https://discord.com/)
+
+### Presentation
+
+- [Slides.com](https://slides.com/) - an online platform that allows users to create, share presentations and slide decks using intuitive design tools and machine learning.
+- [Reveal.js](https://revealjs.com/) - an open source HTML presentation framework that enables users create fully-featured and beautiful presentations for free.
+
+### Project Management and Collaboration:
+
+- [Trello](https://trello.com/): Organize tasks, projects, and collaboration with your DevRel team.
+- [JIRA](https://www.atlassian.com/software/jira): Ideal for tracking and managing tasks in larger teams.
+
+### Email Marketing:
+
+- [Mailchimp](https://mailchimp.com/) : Send newsletters and updates to your developer community.
+- [SendGrid](https://sendgrid.com/) : A powerful email platform for transactional and marketing emails.
+- [HubSpot Email Marketing](https://www.hubspot.com/products/marketing/email) : allows you  create, personalize, and optimize your marketing emails
