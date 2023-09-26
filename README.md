@@ -29,7 +29,6 @@ Welcome to the DevRel Resource Bank! This is a collection of helpful resources f
 
 
 
-
 ## Getting Started with Developer Relations
 
 
