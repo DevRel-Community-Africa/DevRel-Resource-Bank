@@ -96,7 +96,8 @@ Building and maintaining strong relationships with developers is essential for t
 - [Demystifying developer advocacy](https://github.com/readme/guides/angie-jones-demystifying-developer-advocacy) - Angie Jones
   
 - [What is Developer Relations (DevRel)? A Complete Guide.](https://www.jonobacon.com/2023/04/02/what-is-developer-relations-devrel-a-complete-guide/) - Jono Bacon
-- - [Resources for New Managers](https://resources-for-new-managers.com/?ck_subscriber_id=1112105649) - Wherewithall
+
+- [Resources for New Managers](https://resources-for-new-managers.com/?ck_subscriber_id=1112105649) - Wherewithall
   
 ## DevRel Strategies and Content Plan
 
